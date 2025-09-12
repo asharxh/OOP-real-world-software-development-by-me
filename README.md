@@ -4,3 +4,4 @@ Build software that is easy to understand, maintain, extend, problem scope, clar
 
 
 For Reference : https://github.com/ByteByteGoHq/ood-interview
+https://bytebytego.com/courses/object-oriented-design-interview/what-is-an-object-oriented-design-interview
